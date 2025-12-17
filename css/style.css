@@ -1,0 +1,22 @@
+html {
+    font-size: 100%;
+}
+.header {
+    width: 100%;
+    height: 60vh;
+    color: aliceblue;
+    border: dashed 5px black;
+    box-sizing: border-box;
+    background: radial-gradient(circle, rgba(137, 33, 33, 0.4), rgba(25, 114, 118,.5)), url(../../bear.jpg) 0px -250px/cover no-repeat border-box ;
+    font-family: Share-TechMono;
+    line-height: 1.6em;
+    word-spacing: 4px;
+    text-align: center;
+    overflow: scroll;
+    h1 {
+        font-size: 3rem;
+    }
+    p{
+        font-size: 1.3rem;
+    }
+}
